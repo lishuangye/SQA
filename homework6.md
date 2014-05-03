@@ -4,9 +4,7 @@ Both “testing” and “quality assurance” refer to the processes made by a 
 
 Testing is also commonly referred to as quality control. It is a preventive measure or method to ensure the quality of a certain product or service. Quality assurance, in comparison, is the process of the quality in the process or the methods used in order to produce a quality product.
 
-Testing involves the actual operation or use of the product in very controlled and various conditions. Results are written, cataloged, stored, and interpreted in order 
-
-to assess whether the product is up to the prescribed standards of the company and the market. If the product passes testing, it is ready to be marketed and distributed to the public.
+Testing involves the actual operation or use of the product in very controlled and various conditions. Results are written, cataloged, stored, and interpreted in order to assess whether the product is up to the prescribed standards of the company and the market. If the product passes testing, it is ready to be marketed and distributed to the public.
 
 Meanwhile, quality assurance involves ensuring the quality of the process before the actual testing. It also involves the entire process of product development from monitoring to evaluation. Within the process of quality assurance, standards, specifications, and other evaluative methods are considered and followed. Another part of this process is to discover potential problems or anomalies in the product or service.
 
