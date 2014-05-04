@@ -2,7 +2,7 @@
 
 SQA involves the entire software development PROCESS - monitoring and improving the process, making sure that any agreed-upon processes, standards and procedures are followed, and ensuring that problems are found and dealt with. Software Quality Assurance (SQA) is to establish a planned, systematic approach.Software quality assurance is to improve the prevention, detection and to ensure software quality. It manages software life cycle and verifies that the software meets the required quality and user needs. 
 
-Here we will take the diandian (点点单词) as the target system to clarify how to ensure the software quality. There are some ways:
+Based on what I've learned from the course, I will take the diandian (点点单词) as the target system to clarify how to ensure the software quality. There are some ways:
 
 #####Test early and often
 Where possible quality should be built in throughout the development life cycle rather than tested in at the end of a project. The most intuition way of SQA is software testing. This is an important part of the agile development process which we use when making our system. We test what we do, whether it’s design, code, or documentation, early and often so that defects are found while the work is still fresh in people’s minds and before the defects can become too deeply embedded in the software. 
